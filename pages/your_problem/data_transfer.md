@@ -40,7 +40,7 @@ It can be very useful to archive your data in a single file to optimise and ease
 The most common data transfer applications available are:
 
 * FTP (File Transfer Protocol): *Be sure to use a secure version of this protocol, such as FTPS or SFTP (SSH File Transfer Protocol)*. FTP will transfer files between a client and an FTP server, which will require an account in order to transfer the files.
-* HTTP (HyperText Transfer Protocol):
+* HTTPS (HyperText Transfer Protocol Secure): *Be sure to use HTTPS rather than HTTP.* Also never ignore any warnings about sites and be aware of the possibility of **spoofing** attacks
 * Rsync (remote synchronization): can be used to transfer files between two computers and to keep the files synchronized between these two computers.
 * SCP (secure copy): SCP will securely transfer files between a client and a server. It will require an account on the server and can use SSH key based authentication.  
 
