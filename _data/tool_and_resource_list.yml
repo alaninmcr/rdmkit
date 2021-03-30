@@ -124,6 +124,7 @@ Tools:
   tags:
   - storage
   - IT support
+  - data transfer
 - description: 'Specification for a standard API for plant data: plant material, plant
     phenotyping data'
   link: https://www.brapi.org
@@ -409,6 +410,7 @@ Tools:
   tags:
   - storage
   - IT support
+  - data transfer
 - description: Open-source, community-led data curation, publishing, and preservation
     platform for CC0 publicly available research data
   link: https://datadryad.org/
@@ -862,6 +864,7 @@ Tools:
   tags:
   - storage
   - IT support
+  - data transfer
 - description: Minimum Information about a (Meta)Genome Sequence
   link: http://wiki.gensc.org/index.php?title=MIGS/MIMS
   name: MIGS/MIMS
